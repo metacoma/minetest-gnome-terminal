@@ -12,3 +12,4 @@ minetest.register_node("node:dhcp", {
 
 })
 ```
+[![minetest gnome-terminal](https://img.youtube.com/vi/4LH5Fyt-cQM/0.jpg)](https://www.youtube.com/watch?v=4LH5Fyt-cQM)
